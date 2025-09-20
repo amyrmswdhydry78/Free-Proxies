@@ -23,7 +23,7 @@
 [![Commits][commit-activity]][commit-activity-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url103.144.91.13:8080]
 
  
 ## How many proxies are in the list?
