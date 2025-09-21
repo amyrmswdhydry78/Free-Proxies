@@ -104,4 +104,10 @@ You may test these proxies on your own as this is just a quick way to get a list
 The proxies may not be super secure, so please be responsible for what you do.
 I am NOT responsible for what you do or what happens with these proxies, please be responsible.
 ```
+/http://torjan:/ 6 0 f 7 g 8 z 7 Z 7 h 7 h i p y 8 0 h u h u 6 z h h h h h u 9 i d k f 7 3 6 9 3 28 u8 g9 gae g8 h hu7 bor hit g8f z8fbu8fbhi higi6 hof hui hur h8d huif hz buc 6ib8 u9g ig _ 93 40.4u rjir TU rjiigt tutti ti tit tobtobt9 nt9 r98hr.rkr8 rjr8h b rjiir. 49uhr9nr r. rjr8brjri tur84 r7rne9 ru ru rjro lso d
+rjri rur8vr i83 tir8 4i 49k 0e rji 93b rj8 rur9g r8vrbr8 review  ej8 ej9 r8bb4 8v ri i rr8v rivrhr
+/http://[start.IP,PORT:200.29.45.58:9399]
+/htt://[start.IP,PORT:191.34.37.8:83]ping:2000
+/http://[start.SERVER-IP:233.41.21.33:93]ping:2900
+/http://[start.IPV4NETWORK:100.03.38.38:2747]ping:980
 
